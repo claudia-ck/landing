@@ -1,0 +1,37 @@
+.container h2{
+  text-align: center;
+}
+
+.cards{
+  display: flex;
+  align-content: flex-start;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.card{
+  width: 200px;
+  border: 1px solid rgb(216, 214, 214);
+  box-shadow: 0 0 5px 0 rgb(216, 214, 214);
+  border-radius: 3px;
+  text-align: center;
+  padding: 15px;
+}
+
+.container h3{
+  margin-top: 5px;
+  text-align: center;
+  color: rgb(103, 102, 102)
+}
+
+.container p{
+  margin-top: 5px;
+
+  font-family:  Open Sans;
+  color: rgb(203, 202, 202)
+}
+
+.container img{
+  width:150px;
+  height:100px;
+}

@@ -1,0 +1,39 @@
+
+.banner{
+  background-size: cover;
+  background-position: center;
+  background-color: black;
+  padding-top: 160px;
+  padding-bottom: 100px;
+
+}
+
+.container{
+  max-width: 900px;
+  width:100%;
+  margin:auto;
+  /* display: flex;
+  flex-direction: column;
+  justify-content: center; */
+}
+
+.banner h1{
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.banner p{
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+}
+
+.btn-primary{
+  display: inline-block;
+  color: white;
+  background-color: rgb(12, 227, 156);
+  font-weight: lighter;
+  font-size: 15px;
+  padding: 10px 30px;
+  border-radius: 50px;
+}
